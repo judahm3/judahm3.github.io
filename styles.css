@@ -1,0 +1,34 @@
+
+
+section {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+#v1 {
+    border: 20px outset turquoise
+}
+
+#v2 {
+    border: 20px outset orange;
+}
+#readmore{
+color:limegreen;
+border: 40px stroke ;
+}
+
+a{
+color: lightskyblue;
+}
+
+#more{
+ border: 20px outset greenyellow;
+}
+
+p{
+  color:royalblue ;  
+}
+
+h2{
+    font-family:fantasy, cursive;
+}
